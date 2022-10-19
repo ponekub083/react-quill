@@ -13,7 +13,7 @@
 
 # Compiled files
 /dist
-/lib
+# /lib
 
 # Packaging artifacts
 /react-quill-*.tgz
